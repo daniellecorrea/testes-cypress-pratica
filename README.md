@@ -1,4 +1,4 @@
-# 🧪 Portfólio de Testes Automatizados com Cypress + BDD
+# Portfólio de Testes Automatizados com Cypress + BDD
 
 Este repositório faz parte do meu portfólio como Analista de Qualidade, e contém **exercícios práticos de testes automatizados** utilizando o framework [Cypress](https://www.cypress.io/) com abordagem BDD (Behavior Driven Development) via Gherkin.
 
@@ -13,7 +13,7 @@ Sou **Danielle Corrêa**, profissional apaixonada por qualidade de software, com
 
 ---
 
-## 📚 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Cypress 14.x
 - Cypress-Cucumber-Preprocessor
@@ -24,7 +24,7 @@ Sou **Danielle Corrêa**, profissional apaixonada por qualidade de software, com
 
 ---
 
-## 🧪 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 testes-cypress-pratica/
@@ -39,7 +39,7 @@ testes-cypress-pratica/
 
 ---
 
-## 💡 Cenário Atual Testado
+## Cenário Atual Testado
 
 ### Feature: `autenticar-usuario.feature`
 
@@ -79,7 +79,7 @@ Then("Sistema faz a autenticação com sucesso", () => {
 
 ---
 
-## 🚀 Como Executar os Testes
+## Como Executar os Testes
 
 ```bash
 git clone git@github.com:daniellecorrea/testes-cypress-pratica.git
@@ -90,7 +90,7 @@ npx cypress open
 
 ---
 
-## 🧠 Meus Aprendizados
+## Meus Aprendizados
 
 - Estrutura de testes BDD com Gherkin
 - Separação de lógica e comportamento
@@ -100,7 +100,7 @@ npx cypress open
 
 ---
 
-## 📌 Próximos Passos
+## Próximos Passos
 
 - [ ] Criar cenários com dados inválidos
 - [ ] Usar Page Objects
