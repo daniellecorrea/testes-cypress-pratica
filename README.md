@@ -6,7 +6,7 @@ Este repositório faz parte do meu portfólio como Analista de Qualidade, e cont
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou **Danielle Corrêa**, profissional apaixonada por qualidade de software, com experiência em testes manuais e conhecimento em automação. Este repositório documenta minha prática contínua e evolução técnica em automação de testes.
+Sou **Danielle Corrêa**, profissional apaixonada por qualidade de software, com experiência em testes manuais e em constante aprendizados para aprimorar meus conhecimentos em automação de testes. Este repositório documenta minha prática contínua e evolução técnica em automação de testes.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/daniellecorrea)  
 💻 [GitHub](https://github.com/daniellecorrea)
